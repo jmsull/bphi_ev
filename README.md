@@ -1,5 +1,8 @@
 # bphi_ev
-Scripts for generating plots in arxiv:2503.21736
+Scripts for generating plots in arxiv:[2503.21736](https://arxiv.org/abs/2503.21736)
+
+[![DOI](https://zenodo.org/badge/982530188.svg)](https://doi.org/10.5281/zenodo.15398341)
+
 
 Requires:
 - nbodykit https://nbodykit.readthedocs.io/en/latest/index.html
